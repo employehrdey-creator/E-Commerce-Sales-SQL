@@ -71,5 +71,7 @@ Find maximum and minimum profit margin
 . Which marketing source generates the highest revenue?
 6. Discount & Profitability Analysis
 . Does discount affect profit margin?
+# Analysis
+<img width="1366" height="768" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/507ee270-c4c5-4d2a-a425-16955eb61082" />
 
 
