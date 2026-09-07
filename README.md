@@ -50,6 +50,7 @@ Find maximum and minimum profit margin
 . Which customers are repeat customers?
 . Which city has the most customers?
 . Which age group generates the most revenue?
+
 3. Sales & Revenue Analysis
 
 . Which month generated the highest revenue?
@@ -59,10 +60,12 @@ Find maximum and minimum profit margin
 . Which city generates the most revenue?
 . What percentage of total revenue comes from the top category?
 . Which product/category sells the most units?
+
 4. Product & Return Analysis
 
 . Which category has the highest return rate?
 . Which category generates high revenue but low margins?
+
 5. Sales Channel & Marketing Analysis
 . Which sales channel performs best?
 . Which marketing source generates the highest revenue?
